@@ -1,1 +1,1 @@
-# network-interactivity
+# Network Interactivity using R, Angular, and D3.js
